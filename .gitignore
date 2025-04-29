@@ -1,0 +1,7 @@
+data
+weight
+fluoro_cup
+
+__pycache__
+*.sh
+*.out
